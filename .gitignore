@@ -18,3 +18,5 @@ __pycache__/
 # Ignore models and artifacts
 models/
 src/model/
+
+venv/
